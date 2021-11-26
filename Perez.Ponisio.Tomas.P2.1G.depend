@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1635938462 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\bibliotecapersonal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"BibliotecaPersonal.h"
+
+1635938462 c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\bibliotecapersonal.h
+
+1637950316 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637858584 c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\linkedlist.h
+
+1637968326 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"Controller.h"
+
+1637969010 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+	"BibliotecaPersonal.h"
+	"Controller.h"
+
+1637969609 c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\pelicula.h
+
+1637965513 c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\parser.h
+
+1637969587 c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\controller.h
+
+1637965500 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637968147 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.p2.1g\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1635938462 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\bibliotecapersonal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"BibliotecaPersonal.h"
+
+1635938462 c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\bibliotecapersonal.h
+
+1637969010 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+	"BibliotecaPersonal.h"
+	"Controller.h"
+
+1637858584 c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\linkedlist.h
+
+1637969609 c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\pelicula.h
+
+1637969828 c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\parser.h
+
+1637969871 c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\controller.h
+
+1637950316 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637968326 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"Controller.h"
+
+1637965500 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637968147 source:c:\users\tomas\documents\github\perez.ponisio.tomas.p2.1g\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+

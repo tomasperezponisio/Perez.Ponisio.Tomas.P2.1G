@@ -1,0 +1,201 @@
+id,titulo,genero,rating
+1,Docks of New York,drama,8.7
+2,Generals Daughter,comedia,2.4
+3,Angry Silence,comedia,3.3
+4,Day After Trinity,terror,3.3
+5,Disneyland Dream,drama,5.6
+6,Eenfance naked Childhood,terror,8.4
+7,Who Is John Galt,drama,8.2
+8,How to Survive a Plague,drama,9.5
+9,The Man From The Alamo,drama,2.4
+10,The Case of Lucky Legs,terror,8.3
+11,Musketeer,accion,9.7
+12,Romantic Comedy,comedia,8.6
+13,Fall From Grace,comedia,2.4
+14,Casshern,terror,1.7
+15,Dragonquest,accion,5.1
+16,North Face,terror,4.8
+17,Satans Tango ,drama,4.8
+18,Chu Chin Chow,terror,1.0
+19,Cannibal Holocaust,comedia,3.8
+20,Boy Meets Boy,comedia,8.1
+21,Sgt Kabukiman,accion,1.7
+22,Naked in New York,accion,9.0
+23,American Winter,terror,8.2
+24,Tic Code The,terror,6.0
+25,Kick Ass,terror,1.5
+26,In the Cut,drama,2.7
+27,Telefon,accion,5.4
+28,The Coven,accion,9.5
+29,Dirty Work,comedia,8.9
+30,Sometimes They Come Back,drama,5.3
+31,Floundering,accion,8.9
+32,Chance of a Lifetime,accion,8.3
+33,The Snow White Murder Casterror,terror,2.8
+34,Yonkers Joe,drama,6.2
+35,With Love,accion,4.1
+36,Questioning Darwin,terror,5.1
+37,Designing Woman,accion,4.7
+38,Battlestar Galactica,accion,3.6
+39,Bone Collector,comedia,8.0
+40,Saturday Night Fever,drama,5.6
+41,Brute The Bruto,drama,2.1
+42,Experiment in Terror,accion,5.3
+43,At the Earths Core,comedia,4.8
+44,Summer in Berlin,drama,7.6
+45,Presidents Man,terror,7.7
+46,36 Quai des Orfevres,comedia,3.3
+47,Raiders of the Lost Ark,accion,8.1
+48,Taxi 4,terror,9.2
+49,Horrible Bosses 2,drama,2.9
+50,Jill the Ripper,drama,5.8
+51,Robot Carnival,accion,4.1
+52,That Touch of Mink,comedia,5.1
+53,47 Ronin,comedia,9.6
+54,Heartlands,comedia,6.3
+55,Divorcee,drama,6.3
+56,Minions,comedia,2.9
+57,Dragon Ball Z,drama,2.4
+58,Link,comedia,1.4
+59,1969,terror,7.9
+60,Flying Down to Rio,comedia,8.7
+61,Wednesday,comedia,2.3
+62,Dawn Rider,terror,1.2
+63,Invaders from Mars,drama,7.4
+64,Ugly Truth,drama,8.2
+65,10 000 timmar,accion,7.9
+66,My Sassy Girl,terror,2.6
+67,Mystery Science Theater 3accion,accion,8.9
+68,Mountaintop Motel Massacrdrama,drama,3.1
+69,My Favorite Martian,drama,1.2
+70,Pirates Who Dont Do Anythterror,terror,4.0
+71,Dr. Jack,drama,2.6
+72,5 Deadly Venoms,comedia,6.3
+73,Deep Rising,comedia,4.4
+74,In America,terror,3.4
+75,Big Mommas Like Father,drama,9.7
+76,North to Alaska,accion,5.8
+77,Doubt,drama,4.9
+78,Dark Horse,terror,4.9
+79,Kanine,drama,10.0
+80,Surfs Up,accion,1.5
+81,Carbon Copy,drama,6.9
+82,Rogue Cop,drama,2.3
+83,Dodge City,accion,2.8
+84,Greatest Show on Earth,accion,2.2
+85,Quicksilver Highway,comedia,7.1
+86,Creepshow 2,accion,7.1
+87,Je appelle Elisabeth,drama,3.1
+88,200 MPH,comedia,5.6
+89,Phantom,terror,6.0
+90,Cheech and Chong,drama,3.5
+91,Take Me Out to the Ball Gterror,terror,4.9
+92,Silent House,terror,7.3
+93,Ordinary Decent Criminal,comedia,6.4
+94,Eerie Tales,comedia,4.2
+95,Cloverfield,terror,2.2
+96,Way We Laughed,terror,5.3
+97,Vie en Rose,comedia,2.7
+98,Best Defense,drama,5.7
+99,Jimmy Rosenberg,drama,3.9
+100,You Kill Me,terror,6.5
+1,Docks of New York,drama,6.4
+2,Generals Daughter,accion,6.2
+3,Angry Silence,terror,3.6
+4,Day After Trinity,comedia,6.2
+5,Disneyland Dream,drama,9.1
+6,Eenfance naked Childhood,accion,5.1
+7,Who Is John Galt,drama,8.2
+8,How to Survive a Plague,terror,7.8
+9,The Man From The Alamo,drama,5.7
+10,The Case of Lucky Legs,drama,10.0
+11,Musketeer,terror,1.0
+12,Romantic Comedy,accion,6.0
+13,Fall From Grace,drama,5.7
+14,Casshern,accion,7.9
+15,Dragonquest,drama,8.8
+16,North Face,drama,3.7
+17,Satans Tango ,accion,5.0
+18,Chu Chin Chow,drama,5.8
+19,Cannibal Holocaust,terror,1.2
+20,Boy Meets Boy,terror,4.2
+21,Sgt Kabukiman,drama,3.4
+22,Naked in New York,accion,8.5
+23,American Winter,drama,8.5
+24,Tic Code The,comedia,5.7
+25,Kick Ass,terror,6.4
+26,In the Cut,terror,6.1
+27,Telefon,drama,9.6
+28,The Coven,comedia,4.4
+29,Dirty Work,terror,8.2
+30,Sometimes They Come Back,drama,2.4
+31,Floundering,drama,8.5
+32,Chance of a Lifetime,accion,8.4
+33,The Snow White Murder Casdrama,drama,4.7
+34,Yonkers Joe,accion,9.0
+35,With Love,comedia,6.4
+36,Questioning Darwin,terror,1.6
+37,Designing Woman,comedia,7.7
+38,Battlestar Galactica,drama,6.3
+39,Bone Collector,comedia,5.1
+40,Saturday Night Fever,terror,7.2
+41,Brute The Bruto,accion,4.2
+42,Experiment in Terror,drama,5.6
+43,At the Earths Core,terror,7.5
+44,Summer in Berlin,accion,3.6
+45,Presidents Man,terror,2.0
+46,36 Quai des Orfevres,drama,8.9
+47,Raiders of the Lost Ark,comedia,3.2
+48,Taxi 4,terror,8.9
+49,Horrible Bosses 2,terror,7.8
+50,Jill the Ripper,drama,6.4
+51,Robot Carnival,accion,5.6
+52,That Touch of Mink,terror,1.3
+53,47 Ronin,terror,5.5
+54,Heartlands,accion,7.2
+55,Divorcee,accion,7.0
+56,Minions,comedia,3.8
+57,Dragon Ball Z,drama,7.5
+58,Link,comedia,7.8
+59,1969,accion,4.8
+60,Flying Down to Rio,drama,10.0
+61,Wednesday,accion,8.9
+62,Dawn Rider,accion,1.5
+63,Invaders from Mars,terror,5.9
+64,Ugly Truth,terror,4.0
+65,10 000 timmar,comedia,2.5
+66,My Sassy Girl,terror,4.3
+67,Mystery Science Theater 3terror,terror,8.7
+68,Mountaintop Motel Massacrterror,terror,9.6
+69,My Favorite Martian,terror,5.5
+70,Pirates Who Dont Do Anythcomedia,comedia,4.2
+71,Dr. Jack,comedia,7.6
+72,5 Deadly Venoms,accion,2.1
+73,Deep Rising,drama,7.1
+74,In America,comedia,9.7
+75,Big Mommas Like Father,drama,6.0
+76,North to Alaska,comedia,3.8
+77,Doubt,terror,9.2
+78,Dark Horse,accion,9.9
+79,Kanine,drama,8.6
+80,Surfs Up,terror,9.7
+81,Carbon Copy,accion,4.6
+82,Rogue Cop,comedia,6.3
+83,Dodge City,drama,6.6
+84,Greatest Show on Earth,comedia,9.2
+85,Quicksilver Highway,terror,8.9
+86,Creepshow 2,comedia,4.8
+87,Je appelle Elisabeth,terror,8.5
+88,200 MPH,comedia,6.0
+89,Phantom,drama,7.3
+90,Cheech and Chong,accion,5.9
+91,Take Me Out to the Ball Gcomedia,comedia,9.2
+92,Silent House,terror,9.7
+93,Ordinary Decent Criminal,drama,9.0
+94,Eerie Tales,terror,6.1
+95,Cloverfield,drama,8.5
+96,Way We Laughed,drama,8.0
+97,Vie en Rose,terror,7.3
+98,Best Defense,terror,3.9
+99,Jimmy Rosenberg,drama,8.8
+100,You Kill Me,comedia,4.0
